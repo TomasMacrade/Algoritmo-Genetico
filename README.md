@@ -50,8 +50,9 @@ Dentro de la notebook **GenAlg.ipynb** se encuentra otro caso de uso, en donde s
 Libre para usar y modificar.
 
 ## Autor
-El mago Arcibaldo.
+### **El mago Arcibaldo.**
 ![Ocarina](Arcibaldo.png)
+
 
 
 
